@@ -1,5 +1,5 @@
 # PhDnet (IF 2024)
-### 📖[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S1566253524000551) | 🖼️[**PDF**](/fig/main.pdf)
+### 📖[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S1566253524000551) | 🖼️[**PDF**](/figs/main.png)
 
 PyTorch codes for "[PhDnet: A novel physic-aware dehazing network for remote sensing images](https://www.sciencedirect.com/science/article/abs/pii/S1566253524000551)", **Information Fusion (IF)**, 2024.
 
@@ -10,7 +10,7 @@ PyTorch codes for "[PhDnet: A novel physic-aware dehazing network for remote sen
 ## Abstract
 > Remote sensing haze removal is a popular computational imaging technique that directly obtains clear remote sensing data from hazy remote sensing images. Apart from prior-based methods, deep-learning-based methods have performed well in the past years for their powerful non-linear mapping from hazy to haze-free domains. Most dehazing networks are established on atmospheric scattering models. However, these models cannot be easily embedded into deep learning to guide feature extraction. In this study, we introduce a haze extraction model that combines residual learning with the atmospheric scattering model and build a novel physic-aware dehazing network based on this model to achieve effective haze removal for remote sensing images with physical interpretability. By combining multi-scale-gating convolution with a haze extraction unit, PhDnet meets the need for remote sensing image haze removal. We verify the advantage of PhDnet by applying this model on multiple synthetic hazy datasets and real hazy images. We also implement comprehensive studies about the effectiveness of its haze extraction unit and other components.
 ## Network  
- ![image](/fig/network.png)
+ ![image](/figs/main.png)
  
 
 
