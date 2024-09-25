@@ -1,8 +1,3 @@
-# PhDnet
-PyTorch codes for "PhDnet: A novel physic-aware dehazing network for remote sensing images" , Information Fusion (IF), 2024.
-Paper Link: https://www.sciencedirect.com/science/article/abs/pii/S1566253524000551
-![](D:\colacomo\essay\figs\main.png)
-
 # PhDnet (IF 2024)
 ### 📖[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S1566253524000551) | 🖼️[**PDF**](/fig/main.pdf)
 
