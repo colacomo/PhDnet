@@ -16,7 +16,7 @@ PyTorch codes for "[PhDnet: A novel physic-aware dehazing network for remote sen
 
 ## 🎁 Dataset
 Please download the following remote sensing benchmarks:
-[RSHaze+]() 
+[RSHaze+](https://zenodo.org/records/13837162) 
 ### Train
 ```
 python train.py
